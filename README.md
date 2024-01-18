@@ -1,5 +1,6 @@
 # NLP-learning
 Learning NLP Basics in 15 Days
+![nlp](https://github.com/mrvinayakjha/NLP-learning/assets/100670889/5a5cd324-02d7-4fc2-a1e2-a6038d3c45d1)
 
 # NLP Series - Day 1
 
